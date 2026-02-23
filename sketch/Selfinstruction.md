@@ -6,3 +6,4 @@ I need :
 # C script that will do all of this
 # some more devices/emulators for porting
 ## time
+# CREATE MY MOBILE AND DESKTOP COMPATIBLE DESKTOPENVIRONMRENT
