@@ -14,4 +14,5 @@ will be installed soon
 
 modified lumia
 
-Also i will add Freebsd Pkg
+Also i will add some of my apps
+    
