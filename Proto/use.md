@@ -1,6 +1,6 @@
 Possible solutions:
 
-Freebsd 15.0
+Netbsd 10.0
 
 curl
 
