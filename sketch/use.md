@@ -12,7 +12,9 @@ Will be created soon
 
 will be installed soon
 
-modified lumia
+.
+
+modified lumina
 
 Also i will add some of my apps
     
