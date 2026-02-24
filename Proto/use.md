@@ -1,6 +1,6 @@
 Possible solutions:
 
-Netbsd 10.0
+Netbsd 10
 
 curl
 
