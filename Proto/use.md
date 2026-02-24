@@ -4,7 +4,7 @@ Netbsd 10.0
 
 curl
 
-fmake
+bmake
 
 Will be created soon
 
